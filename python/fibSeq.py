@@ -19,7 +19,7 @@ def getNthNumber(n):
 
 
 print("This is my Feb Seq for learning Dynamic Programming..")
-n = 500
+n = 50
 
 data = dict()
 an = getNthNumber(n)

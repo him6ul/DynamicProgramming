@@ -7,7 +7,7 @@ public class FibSeq {
     public static void main(String[] args) {
         System.out.println("This is my Feb Seq for learning Dynamic Programming..");
 
-        int n = 500;
+        int n = 50;
         long an = getNthNumber(n);
         System.out.println(n + "th number in my Feb Seq  -> " + an);
 
